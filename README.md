@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_zvonkiy.smash" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/607/1001/png-transparent-white-arrow-illustration-telegram-logo-computer-icons-social-miscellaneous-blue-angle-thumbnail.png" alt="_zvonkiy.smash" height="30" width="40" /></a>
+<a href="https://instagram.com/_zvonkiy.smash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_zvonkiy.smash" height="30" width="40" /></a>
 <a href="https://t.me/ZvOnKiYSMASH" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/517/124/png-clipart-computer-icons-telegram-social-media-logo-social-media-blue-angle.png" alt="lenur" height="30" width="30" /></a>
 </p>
 
