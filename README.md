@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_zvonkiy.smash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_zvonkiy.smash" height="30" width="40" /></a>
-<a href="https://t.me/ZvOnKiYSMASH" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/517/124/png-clipart-computer-icons-telegram-social-media-logo-social-media-blue-angle.png" alt="lenur" height="30" width="30" /></a>
+<a href="https://t.me/ZvOnKiYSMASH" target="blank"><img align="center" src="https://banner2.cleanpng.com/20180605/ef/kisspng-telegram-encapsulated-postscript-transfer-5b170605610126.3859681215282355253974.jpg" alt="lenur" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
