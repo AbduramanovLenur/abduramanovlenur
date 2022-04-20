@@ -13,6 +13,9 @@
 <a href="https://instagram.com/_zvonkiy.smash" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_zvonkiy.smash" height="30" width="40" />
 </a>
+<a href="https://discord.gg/Lenur#6889" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lenur#6889" height="30" width="40" />
+</a>
 <a href="https://linkedin.com/in/lenur-abduramanov-9569441bb" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lenur-abduramanov-9569441bb" height="30" width="40" />
 </a>
