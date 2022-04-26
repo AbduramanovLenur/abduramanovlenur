@@ -62,6 +62,12 @@
 <a href="https://developer.mozilla.org/ru/docs/Web/API/Fetch_API" target="_blank" rel="noreferrer"> 
   <img src="https://assets.website-files.com/60b0f272ecd4c73f6a5d88ce/617c2d8603ae5c56a7e1d9dc_AxiosLogo.png" alt="axios" width="110" height="40"/> 
 </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</a> 
+<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
+</a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abduramanovlenur&show_icons=true&locale=en" alt="abduramanovlenur" /></p>
