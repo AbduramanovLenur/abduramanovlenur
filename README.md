@@ -21,6 +21,8 @@
 </a>
 </p>
 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -74,4 +76,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abduramanovlenur&show_icons=true&locale=en" alt="abduramanovlenur" /></p>
 
 
-<img src="https://raw.githubusercontent.com/AbduramanovLenur/abduramanovlenur/blob/output/snake.svg" alt="Snake animation" />
