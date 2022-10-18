@@ -73,3 +73,7 @@
 <h3 align="left">My Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abduramanovlenur&show_icons=true&locale=en" alt="abduramanovlenur" /></p>
 
+
+<img src="https://raw.githubusercontent.com/Lenur/Lenur/blob/output/snake.svg" alt="Snake animation" />
+
+###
