@@ -65,6 +65,9 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
 </a>
+ <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANuxt_logo.svg&psig=AOvVaw2z0M0VJ5qHlMf3ESJqlOt_&ust=1666948304220000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNim3b2IgPsCFQAAAAAdAAAAABAE" alt="xd" width="40" height="40"/> 
+</a>
 <a href="https://developer.mozilla.org/ru/docs/Web/API/Fetch_API" target="_blank" rel="noreferrer"> 
   <img src="https://assets.website-files.com/60b0f272ecd4c73f6a5d88ce/617c2d8603ae5c56a7e1d9dc_AxiosLogo.png" alt="axios" width="110" height="40"/> 
 </a>
