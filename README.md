@@ -44,6 +44,9 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 </a>
+<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
+</a>
 <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> 
 </a> 
@@ -67,9 +70,6 @@
 </a>
 <a href="https://developer.mozilla.org/ru/docs/Web/API/Fetch_API" target="_blank" rel="noreferrer"> 
   <img src="https://assets.website-files.com/60b0f272ecd4c73f6a5d88ce/617c2d8603ae5c56a7e1d9dc_AxiosLogo.png" alt="axios" width="110" height="40"/> 
-</a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
 </a>
 </p>
 
