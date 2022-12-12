@@ -70,7 +70,10 @@
 </a>
  <a href="https://about.gitlab.com/" target="_blank">
    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
- </a>  
+ </a>
+ <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+ </a>
 </p>
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
