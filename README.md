@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Lenur</h1>
-<h3>A passionate frontend developer from Uzbekistan</h3>
+<h3>Transforming ideas into stunning digital experiences! 🚀 Frontend developer specializing in creating captivating websites and web applications. Bringing creativity, functionality, and user-centric design together to deliver exceptional results.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abduramanovlenur&label=Profile%20views&color=0e75b6&style=flat" alt="abduramanovlenur" /> 
