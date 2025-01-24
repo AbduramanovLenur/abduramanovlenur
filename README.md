@@ -65,18 +65,24 @@
 <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> 
 </a>
+<a href="https://vite.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4XOdTwDFjrNDoRbCH2vDqCNCKD9u8zVr_g&s" alt="gulp" width="40" height="40"/> 
+</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
+<a href="https://about.gitlab.com/" target="_blank">
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
+</a>
+<a href="https://github.com/" target="_blank">
+   <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8AHWfvfU99X7gPZDKalDYZWcC_ROQc4Fag&s" alt="GitLab" height="50" />
+</a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ-RztFjZuuD8XsKdQm14cYoufgoaLSapdNg&s" alt="photoshop" width="40" height="40"/> 
 </a> 
- <a href="https://about.gitlab.com/" target="_blank">
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
- </a>
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
  </a>
