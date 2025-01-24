@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://t.me/frontend_developer_vue" target="blank">
+ <a href="https://t.me/developer_and_seo" target="blank">
    <img align="center" src="https://regnum.ru/uploads/pictures/news/2017/04/28/regnum_picture_149338732886423_normal.png" alt="lenur" height="30" width="30" />
  </a>
 <a href="https://www.instagram.com/dev.lenur" target="blank">
