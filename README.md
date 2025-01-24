@@ -86,6 +86,12 @@
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
  </a>
+<a href="https://tagmanager.google.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4cEQ_gB6ddnWefziMZ3MfPSZ_flEyVob_Ng&s" alt="photoshop" width="40" height="40"/> 
+</a> 
+<a href="https://accounts.google.com/" target="_blank" rel="noreferrer">
+   <img src="https://storage.googleapis.com/proudcity/helpsite/uploads/2023/04/google-analytics.png" alt="firebase" width="40" height="40"/>
+</a>
 </p>
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
