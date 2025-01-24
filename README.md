@@ -69,10 +69,10 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ-RztFjZuuD8XsKdQm14cYoufgoaLSapdNg&s" alt="photoshop" width="40" height="40"/> 
 </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
+<a href="https://webflow.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpmab2aeRSYdlQ3sVlxIMNqY03iOxWZB6WPA&s" alt="xd" width="40" height="40"/> 
 </a>
  <a href="https://about.gitlab.com/" target="_blank">
    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
