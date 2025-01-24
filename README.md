@@ -57,7 +57,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> 
 </a> 
 <a href="https://react.dev" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="babel" width="70" height="40"/> 
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="babel" width="40" height="40"/> 
 </a> 
 <a href="https://tilda.cc/?lang=en" target="_blank" rel="noreferrer"> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwrx6IEZJjjA5H5C47GJ_JfSogksHz4GO1Sg&s" alt="bootstrap" width="40" height="40"/> 
