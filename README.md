@@ -10,7 +10,7 @@
  <a href="https://t.me/frontend_developer_vue" target="blank">
    <img align="center" src="https://regnum.ru/uploads/pictures/news/2017/04/28/regnum_picture_149338732886423_normal.png" alt="lenur" height="30" width="30" />
  </a>
-<a href="https://www.instagram.com/_lenur.abduramanov" target="blank">
+<a href="https://www.instagram.com/dev.lenur" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_zvonkiy.smash" height="30" width="40" />
 </a>
 <a href="https://discord.gg/Lenur#6889" target="blank">
